@@ -1,0 +1,131 @@
+
+Start running Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance	18-Mar-2016 15:04:52
+
+Start running Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance	18-Mar-2016 15:06:48
+3: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09	18-Mar-2016 15:07:30
+7: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity	18-Mar-2016 15:07:31
+
+Start running Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance	18-Mar-2016 15:09:56
+7: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity	18-Mar-2016 15:10:35
+3: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09	18-Mar-2016 15:10:37
+
+Start running Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance	18-Mar-2016 15:21:01
+
+Start running Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance	18-Mar-2016 15:33:47
+3: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	18-Mar-2016 16:09:31
+6: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	19-Mar-2016 10:51:24
+2: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	19-Mar-2016 11:23:04
+5: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	20-Mar-2016 05:47:10
+1: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	20-Mar-2016 06:18:14
+7: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	20-Mar-2016 06:52:37
+4: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	21-Mar-2016 00:26:08
+8: Finished Z:\Users\yx10\Code\Matlab\NonparametricChoiceModel\Experiments4FullPaper\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	21-Mar-2016 01:26:07
+
+Start running C:\BMLM\Toy_FixCovariance\Toy_FixCovariance	07-Feb-2017 03:17:27
+8: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	11-Feb-2017 04:25:02
+4: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	11-Feb-2017 04:36:24
+7: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	11-Feb-2017 04:59:05
+3: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	11-Feb-2017 05:10:30
+2: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	14-Feb-2017 21:58:50
+6: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToyNoSparsity\PizzaData_N100_J1000.mat, saved in Output_ToyNoSparsity\Output_ToyNoSparsity\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	14-Feb-2017 22:53:25
+
+Start running C:\BMLM\Toy_FixCovariance\Toy_FixCovariance	17-Feb-2017 18:03:56
+3: Finished C:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	17-Feb-2017 18:39:43
+
+Start running E:\BMLM\Toy_FixCovariance\Toy_FixCovariance	18-Feb-2017 10:17:17
+
+Start running E:\BMLM\Toy_FixCovariance\Toy_FixCovariance	18-Feb-2017 10:24:04
+
+Start running E:\BMLM\Toy_FixCovariance\Toy_FixCovariance	18-Feb-2017 10:37:06
+
+Start running E:\BMLM\Toy_FixCovariance\Toy_FixCovariance	18-Feb-2017 10:54:41
+1: Finished E:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	19-Feb-2017 00:52:29
+2: Finished E:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	19-Feb-2017 14:57:37
+3: Finished E:\BMLM\Toy_FixCovariance\Toy_FixCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	20-Feb-2017 04:10:38
+
+Start running E:\BMLM\Toy_LearnCovariance	20-Feb-2017 11:55:39
+
+Start running E:\BMLM\Toy_LearnCovariance	20-Feb-2017 12:02:54
+
+Start running E:\BMLM\Toy_LearnCovariance	20-Feb-2017 12:19:02
+
+Start running E:\BMLM\Toy_LearnCovariance	20-Feb-2017 16:24:56
+
+Start running E:\BMLM\Toy_LearnCovariance	20-Feb-2017 18:08:43
+
+Start running E:\BMLM\Toy_LearnCovariance	24-Feb-2017 01:07:25
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	24-Feb-2017 15:57:36
+
+Start running E:\BMLM\Toy_LearnCovariance	24-Feb-2017 17:03:08
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	25-Feb-2017 07:37:38
+
+Start running E:\BMLM\Toy_LearnCovariance	12-Mar-2017 08:11:07
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToyCustomerSparsity09\PizzaData_N100_J1000.mat, saved in Output_ToyCustomerSparsity09\Output_ToyCustomerSparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	12-Mar-2017 22:56:50
+
+Start running E:\BMLM\Toy_LearnCovariance	12-Mar-2017 23:59:18
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Common_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	13-Mar-2017 14:38:58
+
+Start running E:\BMLM\Toy_LearnCovariance	21-Mar-2017 01:23:44
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_Indv_SparseOn_theta_nBurnin_0_nCollect_2000_nMH_1	21-Mar-2017 18:55:19
+
+Start running E:\BMLM\Toy_LearnCovariance	21-Mar-2017 23:15:29
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	22-Mar-2017 12:32:10
+
+Start running E:\BMLM\Toy_LearnCovariance	22-Mar-2017 23:50:20
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_2000_nMH_1	23-Mar-2017 00:07:58
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 11:56:50
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_1_nMH_1	01-Apr-2017 11:56:52
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 12:21:11
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_1_nMH_1	01-Apr-2017 12:21:12
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 12:31:58
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity09\PizzaData_N100_J1000.mat, saved in Output_ToySparsity09\Output_ToySparsity09\PizzaData_N100_J1000_Train_NoSparse_nBurnin_0_nCollect_200_nMH_1	01-Apr-2017 12:34:07
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 12:35:30
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 12:38:54
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 13:12:18
+
+Start running E:\BMLM\Toy_LearnCovariance	01-Apr-2017 14:49:42
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:11:38
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:11:38
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:16:15
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:28:43
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:28:43
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:30:19
+
+Start running E:\BMLM\Toy_LearnCovariance	02-Apr-2017 20:30:19
+
+Start running E:\BMLM\Toy_LearnCovariance	05-Apr-2017 01:14:02
+1: Finished E:\BMLM\Toy_LearnCovariance\Data\ToySparsity00\PizzaData_N100_J5.mat, saved in Output_ToySparsity00\Output_ToySparsity00\PizzaData_N100_J5_PG_NoSparse_nBurnin_0_nCollect_2000_nMH_1	05-Apr-2017 02:11:10
+
+Start running E:\BMLM\Toy_LearnCovariance	05-Apr-2017 10:06:24
+
+Start running E:\BMLM\Toy_LearnCovariance	05-Apr-2017 13:25:25
+
+Start running E:\BMLM\Toy_LearnCovariance	05-Apr-2017 13:38:11
+
+Start running E:\BMLM\Toy_LearnCovariance	08-Apr-2017 01:30:24
+
+Start running E:\BMLM\Toy_LearnCovariance	08-Apr-2017 16:48:42
+
+Start running E:\BMLM\Toy_LearnCovariance	08-Apr-2017 20:13:33
+
+Start running E:\BMLM\Toy_LearnCovariance	09-Apr-2017 10:50:16
+
+Start running E:\BMLM\Toy_LearnCovariance	09-Apr-2017 11:31:28
+
+Start running E:\BMLM\Toy_LearnCovariance	09-Apr-2017 23:55:54
+
+Start running E:\BMLM\Toy_LearnCovariance	10-Apr-2017 01:03:12
+
+Start running E:\BMLM\Toy_LearnCovariance	10-Apr-2017 07:26:49
