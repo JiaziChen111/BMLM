@@ -154,11 +154,11 @@ for iter = 1 : n_total
     [modelPara, compPara, pcptPara] = UpdateBetaPrior(dimPara, hyperPara, optPara, modelPara, compPara, pcptPara);
     
     % Pre-compute some variables to improve efficiency
-    pcptPara = Precompute(X1S, X2, Q, dimPara, modelPara, optPara, pcptPara, 0);
+    pcptPara = Precompute1(X1S, X2, Q, dimPara, modelPara, optPara, pcptPara, 0);
     compPara = PackCompPara(compPara.C, compPara.compSize, compPara.b_beta, compPara.Sigma_beta, pcptPara.invSigma_beta, pcptPara.detSigma_beta);
     
     % 3. Update beta and theta
-    [modelPara, compPara, pcptPara] = UpdateBetaThetaMod(dimPara, hyperPara, optPara, modelPara, compPara, pcptPara, X1S, X2, Q);
+    [modelPara, compPara, pcptPara] = UpdateBetaThetaMod1(iter,dimPara, hyperPara, optPara, modelPara, compPara, pcptPara, X1S, X2, Q,theta_collection);
     
     % 4. Update prior of theta
     [modelPara, compPara, pcptPara] = UpdateThetaPrior(dimPara, hyperPara, optPara, modelPara, compPara, pcptPara);
@@ -177,7 +177,7 @@ for iter = 1 : n_total
             lambda_theta_collection(:,:, iter - n_burnin) = modelPara.lambda_theta;
         else % save space
             if mod(iter - n_burnin, ceil((iter - n_burnin) / 100)) == 1
-                theta_collection(:,:, ceil((iter - n_burnin) / 100)) = modelPara.theta;
+                theta_collection(:,:, ceil((iter - n_burnin) / 10)) = modelPara.theta;
                 b_theta_collection(:,:, ceil((iter - n_burnin) / 100)) = modelPara.b_theta;
                 Sigma_theta_collection(:,:, ceil((iter - n_burnin) / 100)) = modelPara.Sigma_theta;
                 tau_theta_collection(:,:, ceil((iter - n_burnin) / 100)) = modelPara.tau_theta;
